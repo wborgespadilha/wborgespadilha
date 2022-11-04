@@ -1,4 +1,1 @@
-Conhecido pelo nick Will_33 dentro do SAMP, comecei minha experiência em programação modificando o servidor Terra Sem Lei, onde aprendi sozinho as bases, 
-como as definições de variáveis e estruturas de decisão. Atualmente estou estudando para desenvolvimento em java e pretendo ingressar na carreira de TI como Desenvolvedor.
-
-
+Comecei minha experiência em programação modificando o servidor Terra Sem Lei, um servidor SAMP (GTA San Andreas Multiplayer) onde joguei por muito tempo. Após contato maior na matéria de lógica e algoritmos durante a faculdade de engenharia mudei minha área de conhecimento para a computação. Realizei os cursos de lógica básica da ProWay EAD e entrei na faculdade de Sistemas da Informação na Uniasselvi. Após isso ingressei no programa de formação remunerada CyberQ, da QuickSoft, onde me formei e atuo na empresa, atualmente. Também alterei meu curso para Análise e Desenvolvimento de Sistemas EAD dentro da própria Uniasselvi.
